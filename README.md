@@ -1,58 +1,70 @@
-The day has finally come: it's time to go to battle and tackle Level 1 of the Software Engineering Super League. In this email, you will find the challenge, how and where to submit it and any other tips for the first week of the SESL1. 
+# Getting Started with Create React App
 
-1. LEVEL 1 CHALLENGE
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Chasing the Clicks
+## Available Scripts
 
-﻿
+In the project directory, you can run:
 
-Build a web page (or any kind of hosted web app) with a clickable button and a click count. Every time that the button is clicked, the number increases by 1. When the web page is refreshed, the click count number should reflect all previous clicks. That means, refreshing the page should not reset the count to 0 or any other default number.
+### `npm start`
 
-﻿
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-You can earn bonus points for showing on the web page the distribution of clicks by geography. This could be a simple table, a map or any other way that you can think of.
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-﻿
+### `npm test`
 
-Please note that we will not be evaluating your work based on design or aesthetics. While it’s important to have a sense of product design, we don’t want you to worry about the details of the user interface at the moment.
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-﻿
+### `npm run build`
 
-Your submission should be a link to a hosted web page. Here at Lighthall we are most familiar with React and Amplify, so we can provide the most guidance there, but you can use any tech stack that you feel comfortable with. 
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-﻿
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-Here are some resources that you are welcome to use to build and host your work:
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+### `npm run eject`
 
-Amplify: https://docs.amplify.aws/start/q/integration/react/
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-Vercel: https://vercel.com/docs
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Remix: https://remix.run/docs/en/1.15.0
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-React: https://react.dev/learn
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-2. SUBMISSION DEADLINE
+## Learn More
 
-This assignment is due on Friday, April 14th, at 8:00 PM EST (5:00 PM PST).
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-﻿
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-In the interest of fairness, we will have to be strict about deadlines, so please deliver your submissions on time. 
+### Code Splitting
 
-﻿
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-We will review all submissions over the weekend and announce who will advance to Level 2 by Monday, April 17th. Next week's challenge will be a team challenge.
+### Analyzing the Bundle Size
 
-3. HOW TO SUBMIT YOUR WORK
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-Your submission should be a link to a hosted web page.
+### Making a Progressive Web App
 
-﻿
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-This week, you will find a sub-channel called #Level-1-Submissions in the Competition Group Chat of the Software Engineering Super League on Lighthall. 
+### Advanced Configuration
 
-﻿
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-When you are ready to submit, please post the link in that sub-channel. You will receive a confirmation response from our team, when it's been received.
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
